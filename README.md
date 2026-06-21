@@ -1,8 +1,11 @@
 # Chicago Crime (Time series Project)
 ### Data Source/ Chicago Data Portal: Crimes 2001 to Present - Data Description: All Crimes that were reported in the city of Chicago and their details View Preview - Includes: type of crime, exact date/time, lat/long, district/ward, whether there was an arrest, etc.
+---
 # Used Libraries
 ### pandas / numpy /matplotlib.pyplot / os / zipfile / glob / holidays /seasonal_decompose
+---
 # Stakeholder Questions
+
 ## Topic 1) Comparing Police Districts
 - Which district had the most crimes in 2022?
 - Which had the least?
@@ -45,4 +48,6 @@ Use statsmodels.tsa.seasonal.seasonal_decompose() to decompose the time series.
 <img width="1105" height="753" alt="تنزيل (4)" src="https://github.com/user-attachments/assets/52a30bb9-a768-4038-abab-5334be6e274c" />
 <img width="630" height="470" alt="تنزيل (5)" src="https://github.com/user-attachments/assets/fc417562-e318-4b53-894e-50223775a8bd" />
 
-# Soluation Code : 
+---
+## Solution Code : https://github.com/abeeraz379/Chicago_Crime/blob/main/Chicago_Crime_Data.ipynb
+
